@@ -2,23 +2,23 @@ apt update && apt upgrade
 
 apt install figlet
 
-возможность установить туалет
+apt install toilet
 
-Удачная установка Cowsay
-Чисто
+pkg install cowsay
+clear
 
-фиглет Бисмиллах
+figlet Bismillah
 
-спать 3
+sleep 3
 
-подходящая установка рубина
+pkg install ruby
 
 gem install lolcat
-спать 2
-туалет большой Alhamdulillah | лолкот
+sleep 2
+toilet -f big Alhamdulillah | lolcat
 
-эхо иш битди ишлатиш:
-echo lolat установлен для запуска:
-эхо
-эхо  - туалет -f большой хакер | Lolcat '
-echo  ' cowsay -f eyes Хакер | Lolcat '
+echo ish bitdi ishlatish:
+echo lolcat installed to run:
+echo
+echo  'toilet -f big Hacker | lolcat '
+echo  ' cowsay -f eyes Hacker | lolcat '
