@@ -5,8 +5,8 @@ Lolcat installer
 To install
 
 bash setup.sh
- 
-Before installing
+
+After installing
 To run
 
 toilet -f big Arestant | lolcat
