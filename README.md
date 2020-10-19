@@ -1,0 +1,2 @@
+# Linstaller
+Lolcat installer
